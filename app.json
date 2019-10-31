@@ -24,13 +24,5 @@
   },
   "addons": [
     "mongolab"
-  ],
-  "buildpacks": [
-    {
-      "url": "https://github.com/heroku/heroku-buildpack-java"
-    },
-    {
-      "url": "https://github.com/heroku/heroku-buildpack-python"
-    }
   ]
 }
